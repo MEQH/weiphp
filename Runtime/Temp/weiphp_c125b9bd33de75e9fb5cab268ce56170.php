@@ -1,0 +1,3 @@
+<?php
+//000000000000a:20:{s:2:"id";s:1:"3";s:3:"uid";s:1:"1";s:11:"public_name";s:12:"优典烘焙";s:9:"public_id";s:15:"gh_62106da27d74";s:6:"wechat";s:15:"ydhb15378735333";s:13:"interface_url";N;s:12:"headface_url";N;s:4:"area";N;s:12:"addon_config";s:223:"{"WeiSite":{"template_index":"youdian","template_my":"V1","title":"\u70b9\u51fb\u8fdb\u5165\u9996\u9875","cover":"16","info":"","background":"","code":"","template_footer":"V1","template_lists":"V1","template_detail":"V1"}}";s:12:"addon_status";N;s:5:"token";s:15:"gh_62106da27d74";s:6:"is_use";s:1:"0";s:4:"type";s:1:"3";s:5:"appid";s:18:"wx2c298332726fbbfa";s:6:"secret";s:0:"";s:8:"group_id";s:1:"0";s:14:"encodingaeskey";s:0:"";s:8:"tips_url";N;s:6:"domain";N;s:7:"is_bind";s:1:"0";}
+?>
